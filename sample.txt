@@ -1,0 +1,70 @@
+
+[병리과]   *병리번호: S15-018704                            *처 방 일: 2015-09-02 11:58:59  이승주 UR
+           *등록번호: 17947041                              *채 취 일: 2015-09-02 12:07:14  문서영
+           *상 병 명: Kidney, renal cell carcinoma          *접 수 일: 2015-09-03 08:13:58  김보경
+           *처 방 명: 조직구축학적검사(LN 불포함)           *육안검사: 2015-09-03 11:53:03  박홍식
+           *대표검체: kidney                                *진 단 일: 2015-09-04 16:30:19  조의주/정지한
+           *세부검체: kidney, right
+           *임상정보 및 요구사항: R/O Malignant neoplasm
+
+            [GROSS DESCRIPTION]
+                (Block 9 개,   Slide 9 개)
+
+            [COMMENT]
+                [본 조직은 정확한 진단을 위하여 immunohistochemistry stain을 시행중입니다.]
+
+            [관련병리번호]
+                IH15-002595      Cytokeratin-7▨Ki-67▨CD117 (C-kit)▨S-100 Protein▨Vimentin▨CD10 (Calla)     
+
+[병리과]    Additional Report 1    S15-018704                *진 단 일: 2015-09-08 08:45:58  조의주
+
+            [IMMUNOHISTOCHEMISTRY]
+                IH15-002595      CD10                       A4: positive
+                IH15-002595      CD117                      A4: negative
+                IH15-002595      Cytokeratin 7              A4: negative
+                IH15-002595      Ki-67                      A4: 3%
+                IH15-002595      S-100                      A4: negative
+                IH15-002595      Vimentin                   A4: positive
+
+            [판독결과]
+                << Gross description >>
+                Specimen Type; radical nephrectomy 
+                Specimen size; kidney - 14.0xx6.5x5.5cm, 256gm,  adrenal gland - 5.5x2.0x0.5cm  
+                Side; right 
+                Tumor Site; middle pole
+                Focality; unifocal
+                Tumor Size; 2.6x1.9cm 
+                Macroscopic Extent of Tumor; Tumor limited to kidney
+                Paraffin block key: A4
+                
+                A1: adrenal gland,  A2: ureter margin,  A3: renal artery & vein magin,
+                A4-A7: mass,  A8: A6 위치에서 수직으로 한단면,  A9: 정상 kidney 한단면
+                육안사진: Yes 
+                (Representative x9)
+                
+                <<Diagnosis>>
+                1. Kidney, right, radical nephrectomy;
+                   Renal cell carcinoma, grade Ⅱ.
+                
+                2. Adrenal gland, right, excision;
+                   Negative for malignancy. 
+                
+                  Microscopic Description 
+                  a) site; right, middle pole
+                  b) tumor size; 2.6x1.9cm
+                  c) histological type; clear cell
+                  d) nuclear grade;  II  by Fuhrman (2+1+2)
+                  e) growth pattern; expanding
+                  f) lymphatic invasion; absent  
+                  g) vascular invasion; absent 
+                  h) perineural invasion; absent   
+                  i) renal vein invasion; absent   
+                  j) calyx invasion; absent   
+                  k) pelvis invasion; absent   
+                  l) renal capsule invasion; absent   
+                  m) perirenal fat invasion; absent  
+                  n) lymph node metastasis; no lymph node present to be evaluated
+                
+                조의주 M.D. / 유진영 M.D.
+
+            [DIAGNOSIS 1]  M code: Renal cell carcinoma, grade Ⅱ
